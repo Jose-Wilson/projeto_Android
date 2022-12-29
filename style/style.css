@@ -204,6 +204,10 @@ footer p {
 }
 
 footer p:hover {
-    text-decoration: underline;
     color: var(--cor1);
+    color: white;
+}
+
+footer a {
+    color: white;
 }
